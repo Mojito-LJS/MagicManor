@@ -3,13 +3,7 @@ import { SkillBaseItem } from "./BaseItem";
 import { BehaviorType, SkillItemType } from "../../define/SkillDefine";
 import { RuntimeConst } from "../Const";
 import { RunTimePool } from "../RunTimePool";
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-12-06 11:24
- * @LastEditTime : 2022-12-30 14:13
- * @description  : 
- */
+
 export class SoundItem extends SkillBaseItem {
     public soundId = '';
 

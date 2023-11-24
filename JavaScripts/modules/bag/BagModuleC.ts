@@ -1,12 +1,3 @@
-import { PlayerManagerExtesion, } from '../../Modified027Editor/ModifiedPlayer';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-05 11:03:27
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-14 18:02:06
- * @FilePath     : \magicmanor\JavaScripts\modules\bag\BagModuleC.ts
- * @Description  : 背包客户端模块
- */
 import { GameConfig } from "../../config/GameConfig";
 import { IItemElement } from "../../config/Item";
 import { EventsName } from "../../const/GameEnum";

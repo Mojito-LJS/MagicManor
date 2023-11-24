@@ -1,11 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-02-05 17:11:37
- * @LastEditors  : songxing
- * @LastEditTime : 2023-04-24 10:54:09
- * @FilePath     : \mollywoodschool\JavaScripts\modules\NPC\NPCData.ts
- * @Description  : 
- */
 
 type NPCInfo = { id: number, Rewards: number[] }
 

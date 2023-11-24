@@ -1,14 +1,6 @@
 import { ModifiedCameraSystem, CameraModifid, CameraSystemData, } from '../../../../Modified027Editor/ModifiedCamera';
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-29 16:46:36
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-06 10:38:22
- * @FilePath     : \mollywoodschool\JavaScripts\modules\GameLogic\InteractiveObjs\SP_Camera.ts
- * @Description  : 
- */
 @Component
 export default class SP_Camera extends InteractObject {
     onStart() {

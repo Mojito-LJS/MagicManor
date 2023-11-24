@@ -1,12 +1,3 @@
-/**
- * @Author       : 陈佩文 peiwen.chen@appshahe.com
- * @Date         : 2023-03-02 14:25:12
- * @LastEditors  : 陈佩文 peiwen.chen@appshahe.com
- * @LastEditTime : 2023-03-02 14:25:13
- * @FilePath     : \blueprint\JavaScripts\modules\fighting\logic\corebattle\tags\IdentifierTags.ts
- * @Description  :
- */
-
 import { BaseTagCls } from "./BaseTagCls";
 import { tagI } from "./TagsManager";
 

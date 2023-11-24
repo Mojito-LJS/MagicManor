@@ -1,11 +1,4 @@
 import { SpawnManager,SpawnInfo, } from '../../../Modified027Editor/ModifiedSpawn';
-/*
- * @Author: zhaolei
- * @Date: 2022-08-04 11:39:17
- * @LastEditors: xianjie.xia
- * @Description: file content
- */
-
 
 /**
  * 根据GUID返回全局唯一POOL

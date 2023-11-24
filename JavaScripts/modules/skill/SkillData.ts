@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-02-16 17:33:34
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-03 18:32:57
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\skill\SkillData.ts
- * @Description  : 
- */
 export class SkillData extends Subdata {
 
     /**

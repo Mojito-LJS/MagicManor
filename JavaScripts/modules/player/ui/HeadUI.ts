@@ -1,12 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-04-19 18:04:56
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-08 18:16:41
- * @FilePath     : \mollywoodschool\JavaScripts\modules\player\ui\HeadUI.ts
- * @Description  : 
- */
-
 import { GameConfig } from "../../../config/GameConfig";
 import GameUtils from "../../../utils/GameUtils";
 import { ContractType } from "../../relation/RelationData";

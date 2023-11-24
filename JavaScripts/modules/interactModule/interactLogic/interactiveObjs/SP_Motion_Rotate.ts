@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-27 10:01:24
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-27 10:49:15
- * @FilePath     : \mollywoodschool\JavaScripts\modules\interactModule\Interactive\SP\SP_Motion_Rotate.ts
- * @Description  : 
- */
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";
 
 @Component

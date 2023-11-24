@@ -3,14 +3,6 @@ import SkillUI_Generate from "../../../ui-generate/skill/SkillUI_generate";
 import { MGSMsgHome } from "../../mgsMsg/MgsmsgHome";
 import { skillItem } from "./SkillItem";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-02 15:47:43
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-04 14:18:47
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\ui\SkillUI.ts
- * @Description  :
- */
 export default class SkillUI extends SkillUI_Generate {
 	public skillItemArr: skillItem[] = [];
 	private _pointOffset: mw.Vector2 = mw.Vector2.zero;

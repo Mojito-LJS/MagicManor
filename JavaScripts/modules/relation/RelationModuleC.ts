@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-09 09:41:39
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-06 18:52:08
- * @FilePath     : \magicmanor\JavaScripts\modules\relation\RelationModuleC.ts
- * @Description  : 
- */
 import { UIManager } from "../../ExtensionType";
 import { GameConfig } from "../../config/GameConfig";
 import { GlobalData } from "../../const/GlobalData";

@@ -1,14 +1,6 @@
 import { myCharacterGuid } from "../../ExtensionType";
 import { MGSMsgHome } from "./MgsmsgHome";
 
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-06-20 17:58:19
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-29 18:23:33
- * @FilePath     : \magicmanor\JavaScripts\modules\mgsMsg\MsgTrigger.ts
- * @Description  : 
- */
 @Component
 export default class MsgTrigger extends mw.Script {
 

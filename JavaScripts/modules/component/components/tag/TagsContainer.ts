@@ -1,12 +1,3 @@
-/*
- * @Author: minjia.zhang
- * @Date: 2022-10-26 14:56:43
- * @LastEditors: minjia.zhang
- * @LastEditTime: 2022-11-10 15:57:21
- * @FilePath: \huntroyale\JavaScripts\modules\corebattle\extras\tags\TagsContainer.ts
- * @Description:
- */
-
 import { ActAsAgent } from "../../base/TypeEvent";
 import { ITagContainer } from "./ITagContainerOwner";
 import { TagAgentFun } from "./TagComponent";

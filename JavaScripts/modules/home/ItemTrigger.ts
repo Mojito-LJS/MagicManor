@@ -1,12 +1,4 @@
 import { PlayerManagerExtesion, } from '../../Modified027Editor/ModifiedPlayer';
-/*
- * @Author: YuKun.Gao
- * @Date: 2023-05-26 10:04:42
- * @LastEditors: YuKun.Gao
- * @LastEditTime: 2023-05-26 15:26:22
- * @Description: file content
- * @FilePath: \catcompanion\JavaScripts\modules\home\ItemTrigger.ts
- */
 import { Martial } from "./dress/place/Martial";
 
 @Component

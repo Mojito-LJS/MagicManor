@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-24 15:32:51
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-24 15:32:57
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\script\base\mw.ts
- * @Description  : 修改描述
- */
 type Fn<T extends any[]> = (...args: T) => any;
 type FnArgs<T> = T extends Fn<infer A> ? A : any;
 type FnReturn<T> = T extends (...args: any[]) => infer A ? A : never;

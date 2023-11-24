@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-05 11:30:06
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-14 15:04:08
- * @FilePath     : \magicmanor\JavaScripts\modules\bag\ui\BagItem.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { IItemElement } from "../../../config/Item";
 import { GlobalData } from "../../../const/GlobalData";

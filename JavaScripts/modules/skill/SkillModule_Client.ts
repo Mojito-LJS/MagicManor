@@ -1,19 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-19 17:04:53
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-19 17:46:51
- * @FilePath     : \MagicManor\JavaScripts\modules\skill\SkillModule_Client.ts
- * @Description  : 
- */
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-17 14:36:24
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 13:56:02
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\SkillModule_Client.ts
- * @Description  :
- */
 import { GameConfig } from "../../config/GameConfig";
 import { EventsName } from "../../const/GameEnum";
 import { GlobalData } from "../../const/GlobalData";

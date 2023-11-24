@@ -1,19 +1,3 @@
-/** 
- * @Author       : 郝建琦
- * @Date         : 2023-04-25 10:16:56
- * @LastEditors  : 郝建琦
- * @LastEditTime : 2023-05-11 18:52:45
- * @FilePath     : \mollywoodschool\JavaScripts\modules\interactModule\InteractModuleClient.ts
- * @Description  : 
- */
-/**
- * @Author       : 田可成
- * @Date         : 2023-01-16 15:55:00
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-08 16:13:03
- * @FilePath     : \mollywoodschool\JavaScripts\modules\interactModule\InteractModuleClient.ts
- * @Description  : 
- */
 import { UIManager } from "../../ExtensionType";
 import InteractObject, { InteractiveHelper } from "./interactLogic/InteractObject";
 import InteractMgr from "./InteractMgr";

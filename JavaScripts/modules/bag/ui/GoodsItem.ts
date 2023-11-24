@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-06 10:44:59
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-04-28 16:00:59
- * @FilePath     : \mollywoodschool\JavaScripts\modules\Bag\ui\GoodsItem.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { IItemElement } from "../../../config/Item";
 import { GlobalData } from "../../../const/GlobalData";

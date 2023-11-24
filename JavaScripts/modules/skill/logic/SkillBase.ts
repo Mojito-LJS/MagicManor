@@ -1,11 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-05-18 16:29:35
- * @LastEditors  : songxing
- * @LastEditTime : 2023-05-19 13:44:08
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\SkillBase.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { ISkillElement } from "../../../config/Skill";
 import { ISkillLevelElement } from "../../../config/SkillLevel";

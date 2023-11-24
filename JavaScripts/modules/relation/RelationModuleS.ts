@@ -1,13 +1,5 @@
 import { GeneralManager, } from '../../Modified027Editor/ModifiedStaticAPI';
 import { PlayerManagerExtesion, } from '../../Modified027Editor/ModifiedPlayer';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-10 15:39:52
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-10 19:13:32
- * @FilePath     : \mollywoodschool\JavaScripts\modules\relation\RelationModuleS.ts
- * @Description  : 
- */
 import RelationData, { ContractType } from "./RelationData";
 import RelationModuleC, { ResponseType } from "./RelationModuleC";
 

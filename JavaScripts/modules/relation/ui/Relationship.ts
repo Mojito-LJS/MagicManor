@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-09 10:28:58
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-12 15:07:26
- * @FilePath     : \mollywoodschool\JavaScripts\modules\relation\ui\Relationship.ts
- * @Description  : 
- */
 import { CloseAllUI, ShowAllUI, UIManager } from "../../../ExtensionType";
 import { GameConfig } from "../../../config/GameConfig";
 import { GlobalData } from "../../../const/GlobalData";

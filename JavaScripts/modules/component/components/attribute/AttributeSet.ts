@@ -1,11 +1,3 @@
-/**
- * @Author       : 陈佩文 peiwen.chen@appshahe.com
- * @Date         : 2023-03-01 15:48:08
- * @LastEditors  : 陈佩文 peiwen.chen@appshahe.com
- * @LastEditTime : 2023-03-01 16:29:44
- * @FilePath     : \blueprint\JavaScripts\modules\attrs\attribute\AttributeSet.ts
- * @Description  :
- */
 /* eslint-disable @typescript-eslint/naming-convention */
 import { GameConfig } from "../../../../config/GameConfig";
 import { AttrSetSource } from "./aggregator/AttrSetSource";

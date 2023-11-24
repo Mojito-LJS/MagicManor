@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-16 09:54:27
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-16 10:02:30
- * @FilePath     : \mollywoodschool\JavaScripts\const\GlobalConfig.ts
- * @Description  : 
- */
 export namespace GlobalItemType {
 	export class Fight {
 		/** 受击动作 */

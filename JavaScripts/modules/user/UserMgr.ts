@@ -4,13 +4,6 @@ import { CoinType, ItemInfo, UserDefine } from "./UserDefine";
 import { UserModuleC } from "./UserModuleC";
 import { UserModuleS } from "./UserModuleS";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-04-25 11:20
- * @LastEditTime : 2023-06-13 11:09
- * @description  :  用户模块管理器
- */
 export class UserMgr {
     private static _inst: UserMgr;
     public static get Inst() {

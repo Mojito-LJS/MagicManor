@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-06 15:59:03
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\fly\FlyManager.ts
- * @Description  : 修改描述
- */
 import { single } from "../../../../utils/GameUtils";
 import { FlyShow } from "./FlyShow";
 import { WidgetFlyUI } from "./WidgetFlyUI";

@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-27 17:01:19
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 13:43:21
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\StarSkill.ts
- * @Description  : 
- */
 import { EventsName, PlayerStateType, SkillState } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";
 import { GlobalModule } from "../../../const/GlobalModule";

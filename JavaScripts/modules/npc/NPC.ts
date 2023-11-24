@@ -1,12 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-01-13 18:39:03
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 10:44:33
- * @FilePath     : \mollywoodschool\JavaScripts\modules\npc\NPC.ts
- * @Description  : 
- */
-
 import { GameConfig } from "../../config/GameConfig";
 import GameUtils from "../../utils/GameUtils";
 import TaskData from "../task/TaskData";

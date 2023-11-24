@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-21 13:19:53
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-27 11:24:27
- * @FilePath     : \mollywoodschool\JavaScripts\modules\GameLogic\InteractiveObjs\SP_ActiveDelay.ts
- * @Description  : 
- */
 import InteractMgr from "../../InteractMgr";
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";
 

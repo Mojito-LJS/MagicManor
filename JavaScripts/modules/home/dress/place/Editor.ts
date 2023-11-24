@@ -1,12 +1,4 @@
 import { ModifiedCameraSystem, CameraModifid, CameraSystemData, } from '../../../../Modified027Editor/ModifiedCamera';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-06-12 14:30:18
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-12 15:44:37
- * @FilePath     : \magicmanor\JavaScripts\modules\home\dress\place\Editor.ts
- * @Description  : 
- */
 import { MapEx } from "../../../../utils/MapEx";
 import { BuildingHelper } from "../../BuildingHelper";
 import { HomeDesignMainUI } from "../../ui/roomDress/HomeDesignMainUI";

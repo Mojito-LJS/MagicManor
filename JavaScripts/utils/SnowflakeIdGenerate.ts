@@ -1,12 +1,3 @@
-
-/** 
- * @Author       : peiwen.chen
- * @Date         : 2022-11-17 14:56:07
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-01-04 13:47:22
- * @FilePath     : \huntroyale\JavaScripts\utils\SnowflakeIdGenerate.ts
- * @Description  : 修改描述
- */
 const base = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const ben = base.length;
 

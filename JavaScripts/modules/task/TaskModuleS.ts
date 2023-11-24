@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-25 16:40:46
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-02 11:39:45
- * @FilePath     : \magicmanor\JavaScripts\modules\task\TaskModuleS.ts
- * @Description  : 
- */
 import TaskData, { TaskLineType } from "./TaskData";
 import TaskModuleC from "./TaskModuleC";
 

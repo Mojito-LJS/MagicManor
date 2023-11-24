@@ -5,14 +5,6 @@ import { GlobalData } from "../../../const/GlobalData";
 import { EffectManager, GoPool } from "../../../ExtensionType";
 import { ModuleBaseC, ModuleBaseS } from "../base/ModuleBase";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-05-08 17:18:52
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-08 18:13:33
- * @FilePath     : \mollywoodschool\JavaScripts\modules\player\modules\ClothModule.ts
- * @Description  : 
- */
 export enum EmFacadPart {
     /**套装 */
     Suit = 0,

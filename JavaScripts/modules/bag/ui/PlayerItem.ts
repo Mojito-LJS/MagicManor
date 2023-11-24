@@ -1,8 +1,6 @@
 import PlayerItem_Generate from "../../../ui-generate/bag/PlayerItem_generate";
 import { BagUtils } from "../BagUtils";
 
-
-
 export class PlayerItem extends PlayerItem_Generate {
 
     public playerId: number

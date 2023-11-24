@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-29 13:43:40
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-29 13:43:48
- * @FilePath     : \mollywoodschool\JavaScripts\modules\GameLogic\RPInteractiveObjs\RP_Sound.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../../config/GameConfig";
 import { SoundManager } from "../../../../ExtensionType";
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";

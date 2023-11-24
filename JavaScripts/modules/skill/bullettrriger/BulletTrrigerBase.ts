@@ -1,14 +1,6 @@
 
 import SkillBase from "../logic/SkillBase";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-15 18:30:31
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-05 13:21:52
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\bullettrriger\BulletTrrigerBase.ts
- * @Description  :
- */
 export abstract class BulletTrrigerBase {
 	protected _obj: mw.GameObject;
 	protected _bulletID: string;

@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-09 10:44:12
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-09 11:10:12
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\BulidRelationSkill.ts
- * @Description  : 
- */
 import { UIManager } from "../../../ExtensionType";
 import { SkillState } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";

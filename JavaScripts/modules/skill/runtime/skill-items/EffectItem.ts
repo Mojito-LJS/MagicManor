@@ -5,13 +5,6 @@ import { RunTimePool } from "../RunTimePool";
 import { RunTimeUtil } from "../RunTimeUtil";
 import { SkillBaseItem } from "./BaseItem";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : 田可成
- * @Date         : 2022-11-16 09:23
- * @LastEditTime : 2023-03-17 11:00:32
- * @description  : 
- */
 export class EffectItem extends SkillBaseItem {
 
     public effect: string;

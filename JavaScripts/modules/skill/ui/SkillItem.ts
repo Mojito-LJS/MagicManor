@@ -1,12 +1,3 @@
-/**
- * @Author       : 郝建琦
- * @Date         : 2023-03-20 17:01:32
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 14:16:55
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\ui\SkillItem.ts
- * @Description  :
- */
-
 import { GameConfig } from "../../../config/GameConfig";
 import { SkillState } from "../../../const/GameEnum";
 import { CloseAllUI, UIManager } from "../../../ExtensionType";

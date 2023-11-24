@@ -1,12 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-16 11:06:13
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\core\attribute\IAttributeSet.ts
- * @Description  : 修改描述
- */
-
 import { BaseComponent } from "../../base/Component";
 import { TagComponent } from "../tag/TagComponent";
 import { BaseAttributeData } from "./AttributeData";

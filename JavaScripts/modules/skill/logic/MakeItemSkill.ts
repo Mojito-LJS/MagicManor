@@ -1,12 +1,4 @@
 import { PlayerManagerExtesion, } from '../../../Modified027Editor/ModifiedPlayer';
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-06 09:24:12
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-28 09:45:49
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\MakeItemSkill.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { EventsName, SkillState } from "../../../const/GameEnum";
 import { GlobalConfig } from "../../../const/GlobalConfig";

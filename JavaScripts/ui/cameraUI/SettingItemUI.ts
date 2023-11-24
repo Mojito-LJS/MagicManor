@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-06-02 16:08:10
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-06 15:30:19
- * @FilePath     : \magicmanor\JavaScripts\ui\cameraUI\SettingItemUI.ts
- * @Description  : 
- */
 import { GameConfig } from "../../config/GameConfig";
 import SettingItem_Generate from "../../ui-generate/uiTemplate/Camera/SettingItem_generate";
 import { ItemType } from "./CameraFilterUI";

@@ -1,13 +1,4 @@
 import { GeneralManager, } from '../../../../Modified027Editor/ModifiedStaticAPI';
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-09 13:10:49
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\ui\fly\FlyShow.ts
- * @Description  : 修改描述
- */
-
 import FlyFont_Generate from "../../../../ui-generate/fly/FlyFont_generate";
 import FlyIcon_Generate from "../../../../ui-generate/fly/FlyIcon_generate";
 import WidgetFly_Generate from "../../../../ui-generate/fly/WidgetFly_generate";

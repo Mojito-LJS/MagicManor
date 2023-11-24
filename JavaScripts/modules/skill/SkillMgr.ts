@@ -1,11 +1,3 @@
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : 田可成
- * @Date         : 2023-03-05 11:13
- * @LastEditTime : 2023-04-07 14:20:20
- * @description  : 
- */
-
 import { Class } from "../../const/GlobalData";
 import { ICastParam } from "./define/SkillDefine";
 import SkillBase from "./logic/SkillBase";

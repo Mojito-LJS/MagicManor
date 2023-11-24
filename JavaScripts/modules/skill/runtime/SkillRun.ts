@@ -6,13 +6,6 @@ import { SkillEntity } from "./SkillEntity";
 import { SkillObject } from "./SkillObject";
 import { ESkillEvent, SkillRuntime } from "./SkillRuntime";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-05-05 10:15
- * @LastEditTime : 2023-05-18 14:28
- * @description  : 
- */
 export namespace SkillRun {
     const skills: Map<number, SkillObject> = new Map();
     const entitys: SkillEntity[] = [];

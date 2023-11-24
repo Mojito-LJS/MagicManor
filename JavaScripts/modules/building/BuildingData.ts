@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-25 16:40:46
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-08 13:14:41
- * @FilePath     : \magicmanor\JavaScripts\modules\building\BuildingData.ts
- * @Description  : 
- */
 
 export enum BuildingType {
     /**后庭 */

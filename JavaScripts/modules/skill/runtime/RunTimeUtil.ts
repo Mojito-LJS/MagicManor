@@ -1,10 +1,4 @@
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-12-08 17:16
- * @LastEditTime : 2023-03-05 10:11
- * @description  : 
- */
+
 
 export namespace RunTimeUtil {
     export function getRangeObjs(list: any[], pos, range, dz = -1) {

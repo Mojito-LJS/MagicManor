@@ -1,12 +1,4 @@
 import { GeneralManager, } from '../../../Modified027Editor/ModifiedStaticAPI';
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-16 19:01:29
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-05 11:43:22
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\bullettrriger\BoxBulletTrriger.ts
- * @Description  : 
- */
 import SkillBase from "../logic/SkillBase";
 import { BulletTrrigerBase } from "./BulletTrrigerBase";
 import { registerBulletTrriger } from "./BulletTrrigerMgr";

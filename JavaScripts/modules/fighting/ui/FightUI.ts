@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-22 17:34:28
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-22 17:39:36
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\ui\FightUI.ts
- * @Description  : 修改描述
- */
 import { EventsName } from "../../../const/GameEnum";
 import FightUI_Generate from "../../../ui-generate/fighting/FightUI_generate";
 

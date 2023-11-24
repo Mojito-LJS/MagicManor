@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-27 17:01:19
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-27 18:21:37
- * @FilePath     : \mollywoodschool\JavaScripts\prefabScript\Snowball.ts
- * @Description  : 
- */
 @Component
 export default class Snowball extends mw.Script {
     private _obj: mw.GameObject

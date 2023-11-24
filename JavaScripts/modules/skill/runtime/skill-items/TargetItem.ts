@@ -4,13 +4,6 @@ import { SkillBaseItem } from "./BaseItem";
 import { BehaviorType, SkillItemType } from "../../define/SkillDefine";
 import { RunTimeUtil } from "../RunTimeUtil";
 
-/*
- * @Author: xianjie.xia
- * @LastEditors: xianjie.xia
- * @Date: 2022-10-13 17:15
- * @LastEditTime: 2022-11-23 15:19
- * @description: 
- */
 export class TargetItem extends SkillBaseItem {
 
     public kind: number;   //方式

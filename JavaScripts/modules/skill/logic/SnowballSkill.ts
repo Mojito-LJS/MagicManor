@@ -1,12 +1,4 @@
 import { PlayerManagerExtesion, } from '../../../Modified027Editor/ModifiedPlayer';
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-25 17:13:15
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-27 18:27:43
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\SnowballSkill.ts
- * @Description  : 
- */
 import { GlobalData } from "../../../const/GlobalData";
 import GameUtils from "../../../utils/GameUtils";
 import { PropModuleC } from "../../prop/PropModuleC";

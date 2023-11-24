@@ -1,12 +1,4 @@
 import { SpawnManager,SpawnInfo, } from '../../../../Modified027Editor/ModifiedSpawn';
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-08 15:35:19
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\ui\fly\WidgetFlyUI.ts
- * @Description  : 修改描述c
- */
 import FlyFont_Generate from "../../../../ui-generate/fly/FlyFont_generate";
 import FlyIcon_Generate from "../../../../ui-generate/fly/FlyIcon_generate";
 import WidgetFly_Generate from "../../../../ui-generate/fly/WidgetFly_generate";

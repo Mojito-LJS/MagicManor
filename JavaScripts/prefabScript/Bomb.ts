@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-04 19:11:28
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-18 12:14:39
- * @FilePath     : \mollywoodschool\JavaScripts\prefabScript\Bomb.ts
- * @Description  : 
- */
 import { UIManager } from "../ExtensionType"
 import { BombTips } from "../ui/worldUI/BombTips"
 

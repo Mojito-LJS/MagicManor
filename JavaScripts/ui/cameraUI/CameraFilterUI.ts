@@ -1,12 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-06-02 16:08:10
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-06 15:30:03
- * @FilePath     : \magicmanor\JavaScripts\ui\cameraUI\CameraFilterUI.ts
- * @Description  : 
- */
-
 import { GameConfig } from "../../config/GameConfig";
 import { MyAction1, UIManager } from "../../ExtensionType";
 import { MGSMsgHome } from "../../modules/mgsMsg/MgsmsgHome";

@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-22 18:42:11
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\FightingModuleS.ts
- * @Description  : 修改描述
- */
 import { FightingModuleC } from "./FightingModuleC";
 
 /**

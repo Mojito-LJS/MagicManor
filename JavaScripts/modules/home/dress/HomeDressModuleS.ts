@@ -1,11 +1,3 @@
-/*
- * @Author: YuKun.Gao
- * @Date: 2023-05-16 11:39:03
- * @LastEditors: YuKun.Gao
- * @LastEditTime: 2023-05-29 18:17:03
- * @Description: file content
- * @FilePath: \catcompanion\JavaScripts\modules\home\HomeDressModuleS.ts
- */
 import BuildingModuleS from "../../building/BuildingModuleS";
 import { HomeDressData } from "./HomeDressData";
 import { HomeDressModuleC } from "./HomeDressModuleC";

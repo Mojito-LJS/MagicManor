@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-24 13:46:20
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-27 17:11:48
- * @FilePath     : \mollywoodschool\JavaScripts\modules\GameLogic\InteractiveObjs\SP_TouchScreen.ts
- * @Description  : 
- */
 import { InputManager } from "../../../../InputManager";
 import { InteractModuleClient } from "../../InteractModuleClient";
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";

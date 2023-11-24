@@ -1,11 +1,3 @@
-/**
- * @Author       : 陈佩文 peiwen.chen@appshahe.com
- * @Date         : 2023-02-21 10:31:31
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-05 10:02:39
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\logic\corebattle\base\DensePool.ts
- * @Description  :
- */
 class PoolObject<T> {
     public free: boolean = false;
 

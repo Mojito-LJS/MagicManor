@@ -5,15 +5,6 @@ import { HeadUIModuleC } from "./modules/HeadUIModule";
 import { StateModuleC } from "./modules/StateModule";
 import PlayerModuleServer from "./PlayerModuleServer";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-05-08 16:50:15
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-14 11:34:20
- * @LastEditTime : 2023-05-09 11:15:17
- * @FilePath     : \mollywoodschool\JavaScripts\modules\player\PlayerModuleClient.ts
- * @Description  : 
- */
 export default class PlayerModuleClient extends ModuleC<PlayerModuleServer, null> implements IPlayerModuleBase {
     public Cloth: ClothModuleC
     public HeadUI: HeadUIModuleC

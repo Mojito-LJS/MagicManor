@@ -1,12 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-10 10:35:40
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-10 10:42:59
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\DesignationSkill.ts
- * @Description  : 
- */
-
 import { UIManager } from "../../../ExtensionType";
 import { SkillState } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";

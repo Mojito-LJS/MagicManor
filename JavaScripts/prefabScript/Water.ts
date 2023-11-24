@@ -1,12 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-04-17 10:15:18
- * @LastEditors  : songxing
- * @LastEditTime : 2023-04-20 13:56:40
- * @FilePath     : \mollywoodschool\JavaScripts\prefabScript\Water.ts
- * @Description  : 
- */
-
 import { EffectManager, Tween } from "../ExtensionType";
 import Tips from "../ui/commonUI/Tips";
 

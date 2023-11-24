@@ -1,4 +1,4 @@
-import { ModifiedCameraSystem,CameraModifid,CameraSystemData, } from '../../Modified027Editor/ModifiedCamera';
+import { ModifiedCameraSystem } from '../../Modified027Editor/ModifiedCamera';
 
 export class BagUtils {
 

@@ -1,12 +1,4 @@
 import { GeneralManager, } from '../../../../Modified027Editor/ModifiedStaticAPI';
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-27 10:01:24
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-29 13:46:04
- * @FilePath     : \mollywoodschool\JavaScripts\modules\GameLogic\InteractiveObjs\SP_PlayEffect.ts
- * @Description  : 
- */
 import { EffectManager } from "../../../../ExtensionType";
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";
 

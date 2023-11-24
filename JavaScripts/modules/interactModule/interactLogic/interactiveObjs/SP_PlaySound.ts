@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-29 13:09:35
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-29 13:34:46
- * @FilePath     : \mollywoodschool\JavaScripts\modules\GameLogic\InteractiveObjs\SP_PlaySound.ts
- * @Description  : 
- */
 import { SoundManager } from "../../../../ExtensionType";
 import InteractObject, { InteractLogic_C, InteractLogic_S } from "../InteractObject";
 

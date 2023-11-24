@@ -2,13 +2,6 @@
 import { myPlayerID } from "../../../../ExtensionType";
 import { ISkillEntity, ISkillItemParam, ISkillLine, ISkillTimer, SkillItemType } from "../../define/SkillDefine";
 import { SkillBaseItem } from "./BaseItem";
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : 田可成
- * @Date         : 2022-12-06 11:24
- * @LastEditTime : 2023-04-14 11:20:46
- * @description  : 暂不用
- */
 
 
 export class BuffItem extends SkillBaseItem {

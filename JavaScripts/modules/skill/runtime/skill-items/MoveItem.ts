@@ -1,18 +1,11 @@
 import { ISkillEntity, ISkillItemParam, ISkillLine, ISkillTimer } from "../../define/SkillDefine";
 import { SkillBaseItem } from "./BaseItem";
-
 import { RuntimeConst } from "../Const";
 import { ESkillEvent } from "../SkillRuntime";
 import { BehaviorType, SkillItemType } from "../../define/SkillDefine";
 import { RunTimeUtil } from "../RunTimeUtil";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-11-16 09:23
- * @LastEditTime : 2022-12-29 15:22
- * @description  : 
- */
+
 export class MoveItem extends SkillBaseItem {
 
     private _distance: number;

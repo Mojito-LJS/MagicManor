@@ -1,12 +1,3 @@
-/*
- * @Description: 
- * @Version: 2.0
- * @Autor: guan.wang
- * @Date: 2022-01-09 14:29:36
- * @LastEditors: guan.wang
- * @LastEditTime: 2022-03-02 17:48:17
- */
-
 import { Axis } from "../const/GameEnum";
 import { MyAction } from "../ExtensionType";
 

@@ -1,13 +1,7 @@
 import { ISkillEntity, ISkillItemParam, ISkillLine, ISkillTimer } from "../../define/SkillDefine";
 import { SkillBaseItem } from "./BaseItem";
 import { BehaviorType, SkillItemType } from "../../define/SkillDefine";
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-12-06 11:24
- * @LastEditTime : 2022-12-12 14:13
- * @description  : 
- */
+
 export class TransfromItem extends SkillBaseItem {
     private _delta = new mw.Vector(0, 0, 0);
     private _temp = new mw.Rotation(0, 0, 0);

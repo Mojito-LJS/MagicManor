@@ -3,13 +3,6 @@ import { RuntimeConst } from "../Const";
 import { RunTimePool } from "../RunTimePool";
 import { SkillBaseItem } from "./BaseItem";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-11-16 09:23
- * @LastEditTime : 2023-05-05 17:26
- * @description  : 
- */
 export class PutItem extends SkillBaseItem {
 
     private _resId: string;

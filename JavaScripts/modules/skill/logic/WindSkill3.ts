@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-10 13:38:29
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 17:37:10
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\WindSkill3.ts
- * @Description  : 
- */
 import { SkillRun } from "../runtime/SkillRun";
 import SkillBase, { registerSkill } from "./SkillBase";
 

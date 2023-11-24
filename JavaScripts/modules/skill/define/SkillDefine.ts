@@ -1,9 +1,3 @@
-/*
-* @Author: zhaolei
-* @Date: 2022-10-25 17:54:35
- * @LastEditors: xianjie.xia
-* @Description: $1
-*/
 export enum BehaviorType {
     Start,  //技能开始
     ItemStart, //模块开始

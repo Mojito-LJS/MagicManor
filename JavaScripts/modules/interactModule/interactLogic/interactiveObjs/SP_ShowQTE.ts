@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-27 10:01:24
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-03-27 10:55:11
- * @FilePath     : \mollywoodschool\JavaScripts\modules\interactModule\Interactive\SP\SP_ShowQTE.ts
- * @Description  : 
- */
 import InteractObject, { InteractiveHelper, InteractLogic_C, InteractLogic_S } from "../InteractObject";
 
 @Component

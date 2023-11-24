@@ -1,12 +1,4 @@
 import { GeneralManager, } from '../../Modified027Editor/ModifiedStaticAPI';
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-22 18:06:35
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-14 14:24:28
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\SkillComponent.ts
- * @Description  :
- */
 import { GameConfig } from "../../config/GameConfig";
 import { EventsName, PlayerStateType, SkillState } from "../../const/GameEnum";
 import Component from "../component/base/Component";

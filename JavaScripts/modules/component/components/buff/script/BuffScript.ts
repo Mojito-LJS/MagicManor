@@ -1,12 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-27 14:42:20
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-27 18:37:15
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\script\buff\BuffScript.ts
- * @Description  : 修改描述
- */
-
 import { TimeTool } from "../../../../../utils/TimeTool";
 import { registerFightScript } from "../../../base/BaseScript";
 import ComponentSystem from "../../../base/ComponentSystem";

@@ -3,14 +3,6 @@ import { bulletClass } from "../../../ExtensionType";
 import SkillBase from "../logic/SkillBase";
 import { BulletTrrigerBase } from "./BulletTrrigerBase";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-08 14:41:20
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-05 11:42:14
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\bullettrriger\BulletTrrigerMgr.ts
- * @Description  : 
- */
 export default class BulletTrrigerMgr {
     private _myBulletMap: Map<string, BulletTrrigerBase> = new Map()
     private _otherBulletMap: Map<string, BulletTrrigerBase> = new Map()

@@ -4,14 +4,6 @@ import { EventsName } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";
 import GameUtils from "../../../utils/GameUtils";
 
-/**
- * @Author       : songxing
- * @Date         : 2023-03-28 18:03:58
- * @LastEditors  : songxing
- * @LastEditTime : 2023-04-11 11:29:37
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\skillObj\BesomMgr.ts
- * @Description  : 魔法扫把管理池子
- */
 export namespace BesomEvent {
     export const spwanBesom: string = "spwanBesom"
     export const unspwanBesom: string = "unspwanBesom"

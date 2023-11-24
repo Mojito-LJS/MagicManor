@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-20 09:42:53
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-03-20 11:07:57
- * @FilePath     : \mollywoodschool\JavaScripts\modules\Bag\ui\BagTips.ts
- * @Description  : 
- */
 import BagTips_Generate from "../../../ui-generate/bag/BagTips_generate";
 
 export class BagTips extends BagTips_Generate {

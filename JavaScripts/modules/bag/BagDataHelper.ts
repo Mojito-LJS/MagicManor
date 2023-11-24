@@ -1,12 +1,3 @@
-/**
- * @Author       : 陆江帅
- * @Date         : 2023-03-05 11:03:27
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-04-28 13:21:55
- * @FilePath     : \mollywoodschool\JavaScripts\modules\Bag\BagDataHelper.ts
- * @Description  : 背包数据模块
- */
-
 import { GameConfig } from "../../config/GameConfig";
 import { IItemElement } from "../../config/Item";
 import { GlobalData } from "../../const/GlobalData";

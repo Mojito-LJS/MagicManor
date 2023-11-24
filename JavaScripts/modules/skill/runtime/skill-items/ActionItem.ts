@@ -1,16 +1,8 @@
 import { PlayerManagerExtesion, } from '../../../../Modified027Editor/ModifiedPlayer';
-
 import { BehaviorType, ISkillEntity, ISkillItemParam, ISkillLine, ISkillTimer, SkillItemType } from "../../define/SkillDefine";
 import { RunTimeUtil } from "../RunTimeUtil";
 import { SkillBaseItem } from "./BaseItem";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : 田可成
- * @Date         : 2022-11-16 09:23
- * @LastEditTime : 2023-03-22 09:39:21
- * @description  : 
- */
 export class ActionItem extends SkillBaseItem {
 
     public res: string;

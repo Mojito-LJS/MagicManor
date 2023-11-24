@@ -1,12 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-01-13 18:39:03
- * @LastEditors  : songxing
- * @LastEditTime : 2023-01-30 10:42:12
- * @FilePath     : \mollywoodschool\JavaScripts\modules\NPC\NPCHead.ts
- * @Description  : 
- */
-
 import NPCHead_Generate from "../../ui-generate/uiTemplate/NPC/NPCHead_generate";
 import { TaskSate } from "../task/TaskData";
 

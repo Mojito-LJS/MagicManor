@@ -1,6 +1,6 @@
 # magicmanor
 
-魔法庄园 - 陆江帅
+魔法庄园 - 陆江帅，刘昱晨
 
 ## Getting started
 

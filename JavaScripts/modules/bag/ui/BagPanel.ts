@@ -1,18 +1,8 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-05 11:28:44
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-14 16:54:00
- * @FilePath     : \magicmanor\JavaScripts\modules\bag\ui\BagPanel.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
-import { IItemElement } from "../../../config/Item";
 import { GlobalData } from "../../../const/GlobalData";
-import { CloseAllUI, ShowAllUI, Tween, UIManager } from "../../../ExtensionType";
+import { CloseAllUI, ShowAllUI, UIManager } from "../../../ExtensionType";
 import BagPanel_Generate from "../../../ui-generate/bag/BagPanel_generate";
 import Tips from "../../../ui/commonUI/Tips";
-import { MGSMsgHome } from "../../mgsMsg/MgsmsgHome";
 import { ContractType } from "../../relation/RelationData";
 import { ItemInfo, ItemType, TagType } from "../BagDataHelper";
 import { BagModuleC } from "../BagModuleC";

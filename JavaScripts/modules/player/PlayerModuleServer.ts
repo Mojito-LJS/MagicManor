@@ -1,24 +1,10 @@
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-05-18 14:28
- * @LastEditTime : 2023-05-18 15:11
- * @description  : 
- */
 import IPlayerModuleBase from "./base/IPlayerModuleBase";
 import { ClothModuleS } from "./modules/ClothModule";
 import { HeadUIModuleS } from "./modules/HeadUIModule";
 import { StateModuleS } from "./modules/StateModule";
 import PlayerModuleClient from "./PlayerModuleClient";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-05-08 16:50:26
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 11:04:59
- * @FilePath     : \mollywoodschool\JavaScripts\modules\player\PlayerModuleServer.ts
- * @Description  : 
- */
+
 export default class PlayerModuleServer extends ModuleS<PlayerModuleClient, null> implements IPlayerModuleBase {
     public Cloth: ClothModuleS
     public HeadUI: HeadUIModuleS

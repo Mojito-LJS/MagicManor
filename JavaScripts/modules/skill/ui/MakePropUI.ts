@@ -1,11 +1,3 @@
-/** 
- * @Author       : 郝建琦
- * @Date         : 2023-03-20 17:01:32
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-16 13:19:28
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\ui\MakePropUI.ts
- * @Description  : 
- */
 import { ICreateItemElement } from "../../../config/CreateItem";
 import { GameConfig } from "../../../config/GameConfig";
 import { UIManager } from "../../../ExtensionType";

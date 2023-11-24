@@ -1,11 +1,3 @@
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-05-19 16:11
- * @LastEditTime : 2023-06-13 16:10
- * @description  : 
- */
-//import { LogMgr } from "../../tools/LogMgr";
 
 export enum CoinType {
     //无

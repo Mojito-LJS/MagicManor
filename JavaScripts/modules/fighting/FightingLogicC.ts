@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-14 11:12:07
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\FightingLogicC.ts
- * @Description  : 修改描述
- */
 import { GameConfig } from "../../config/GameConfig";
 import { EventsName } from "../../const/GameEnum";
 import { BaseAttributeData } from "../component/components/attribute/AttributeData";

@@ -3,13 +3,6 @@ import { ISkillEntity, ISkillItemParam, ISkillLine, ISkillTimer } from "../../de
 import { SkillBaseItem } from "./BaseItem";
 import { BehaviorType, SkillItemType } from "../../define/SkillDefine";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-12-06 11:24
- * @LastEditTime : 2022-12-13 16:34
- * @description  : 
- */
 export class GroupItem extends SkillBaseItem {
     private _count = 1;
     private _gap = 0;

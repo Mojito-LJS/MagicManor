@@ -1,11 +1,3 @@
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-25 17:13:15
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-28 16:03:59
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\PetSkill.ts
- * @Description  : 
- */
 import { EventsName, SkillState } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";
 import PetModuleC from "../../pets/PetModuleC";

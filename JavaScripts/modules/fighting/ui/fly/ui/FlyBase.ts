@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-01-05 17:49:43
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-01-11 14:01:02
- * @FilePath     : \huntroyale\JavaScripts\ui\common\fly\FlyBase.ts
- * @Description  : 修改描述
- */
 import Tween = mw.Tween;
 export class FLyConfig {
 	constructor(

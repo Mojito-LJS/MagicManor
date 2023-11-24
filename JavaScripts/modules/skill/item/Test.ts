@@ -2,13 +2,6 @@ import { myPlayerID } from "../../../ExtensionType";
 import { BehaviorType, ISkillEntity, SkillItemType } from "../define/SkillDefine";
 
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : 田可成
- * @Date         : 2023-03-06 13:29
- * @LastEditTime : 2023-04-14 11:20:20
- * @description  : 
- */
 export let testBehivor = (entity: ISkillEntity, type: BehaviorType, ...params) => {
     switch (type) {
         case BehaviorType.CastStart:

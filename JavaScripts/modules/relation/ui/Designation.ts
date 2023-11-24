@@ -1,12 +1,4 @@
 import { GeneralManager, } from '../../../Modified027Editor/ModifiedStaticAPI';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-10 15:39:52
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-14 13:47:17
- * @FilePath     : \mollywoodschool\JavaScripts\modules\relation\ui\Designation.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { EventsName } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";

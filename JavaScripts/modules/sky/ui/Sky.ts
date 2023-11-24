@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-28 14:09:05
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-01 17:49:31
- * @FilePath     : \magicmanor\JavaScripts\modules\sky\ui\Sky.ts
- * @Description  : 
- */
 import { UIManager } from "../../../ExtensionType";
 import { GameConfig } from "../../../config/GameConfig";
 import Sky_Generate from "../../../ui-generate/sky/Sky_generate";

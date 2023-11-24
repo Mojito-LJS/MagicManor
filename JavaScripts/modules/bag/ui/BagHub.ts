@@ -1,12 +1,4 @@
 import { GeneralManager, } from '../../../Modified027Editor/ModifiedStaticAPI';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-06 10:44:59
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-08 11:32:20
- * @FilePath     : \mollywoodschool\JavaScripts\modules\bag\ui\BagHub.ts
- * @Description  : 
- */
 import { EventsName } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";
 import { Tween, UIManager } from "../../../ExtensionType";

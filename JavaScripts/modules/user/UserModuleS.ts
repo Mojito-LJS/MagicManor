@@ -3,13 +3,6 @@ import { UserData } from "./UserData";
 import { CoinType, JumpGameData, UserDefine } from "./UserDefine";
 import { UserModuleC } from "./UserModuleC";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-04-25 11:21
- * @LastEditTime : 2023-06-01 18:39
- * @description  : 用户模块
- */
 
 export class UserModuleS extends ModuleS<UserModuleC, UserData>{
 

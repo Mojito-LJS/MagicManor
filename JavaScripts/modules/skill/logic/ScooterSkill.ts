@@ -1,12 +1,4 @@
 import { PlayerManagerExtesion, } from '../../../Modified027Editor/ModifiedPlayer';
-/**
- * @Author       : 田可成
- * @Date         : 2023-04-25 14:43:17
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-09 15:26:11
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\logic\ScooterSkill.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { EventsName, PlayerStateType, SkillState } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";

@@ -1,12 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-02 18:00:37
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-02 18:58:19
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\fly\ui\WidgetFly.ts
- * @Description  : 修改描述
- */
-
 import { FlyBase, FlyGenerate, FlyIconGenerate } from "./FlyBase";
 
 export enum FlyTimeType {

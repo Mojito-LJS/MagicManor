@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-20 16:32:10
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-21 18:34:23
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\core\buff\buffModifier\RecoveryBlood.ts
- * @Description  : 修改描述
- */
 
 class RecoveryBlood {
 	static effectName = "RecoveryBlood";

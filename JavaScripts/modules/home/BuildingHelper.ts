@@ -1,12 +1,3 @@
-/*
- * @Author: YuKun.Gao
- * @Date: 2023-05-12 17:23:52
- * @LastEditors: YuKun.Gao
- * @LastEditTime: 2023-05-31 17:05:28
- * @Description: file content
- * @FilePath: \catcompanion\JavaScripts\modules\room\VirtualRoomHelper.ts
- */
-
 import { EventsName } from "../../const/GameEnum";
 import { Editor } from "./dress/place/Editor";
 import { ManorState } from "../building/BuildingModuleS";

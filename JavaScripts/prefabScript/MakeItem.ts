@@ -1,12 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-24 14:56:47
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-16 12:16:39
- * @FilePath     : \mollywoodschool\JavaScripts\prefabScript\MakeItem.ts
- * @Description  : 
- */
-
 @Component
 export default class MakeItem extends mw.Script {
     private _obj: mw.GameObject

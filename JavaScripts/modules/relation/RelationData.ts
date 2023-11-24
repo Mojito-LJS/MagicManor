@@ -1,14 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-12 11:22:52
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-12 16:34:28
- * @FilePath     : \mollywoodschool\JavaScripts\modules\relation\RelationData.ts
- * @Description  : 
- */
-
-
-
 /** 关系绑定时间（ms） */
 const relationTime = 7 * 24 * 60 * 60 * 1000
 

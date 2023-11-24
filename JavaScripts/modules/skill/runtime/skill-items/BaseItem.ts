@@ -3,13 +3,6 @@ import { BehaviorType, TimerState, SkillItemType, ISkillLine, ISkillItemParam } 
 import { RuntimeConst } from "../Const";
 import { ISkillEntity, ISkillBaseItem as ISkillItem, ISkillTimer } from "../../define/SkillDefine";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-11-16 17:43
- * @LastEditTime : 2023-03-08 16:10
- * @description  : 
- */
 // export type SkillParam = Partial<{ t: SkillItemType, d: number, l: number, w: number, v: any, p1: any, p2: any, p3: any, p4: any, p5: any, p6: any, p7: any, p8: any }>;
 
 export abstract class SkillBaseItem implements ISkillItem {

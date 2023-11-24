@@ -1,13 +1,7 @@
 import { BehaviorType, ISkillItemParam, ISkillLine, SkillItemType } from "../../define/SkillDefine";
 import { ISkillEntity, ISkillTimer } from "../../define/SkillDefine";
 import { SkillBaseItem } from "./BaseItem";
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-12-06 11:24
- * @LastEditTime : 2023-03-07 16:00
- * @description  : 释放引导
- */
+
 
 export class CastItem extends SkillBaseItem {
 

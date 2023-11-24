@@ -1,11 +1,3 @@
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-12-06 11:24
- * @LastEditTime : 2023-01-12 14:14
- * @description  : 
- */
-
 import { ActionItem } from "./skill-items/ActionItem";
 import { EffectItem } from "./skill-items/EffectItem";
 import { EventItem } from "./skill-items/EventItem";

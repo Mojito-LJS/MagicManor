@@ -1,10 +1,4 @@
 import { GeneralManager, } from '../../../Modified027Editor/ModifiedStaticAPI';
-/*
- * @Author: jiezhong.zhang
- * @Date: 2023-04-23 14:19:32
- * @LastEditors: jiezhong.zhang jiezhong.zhang@appshahe.com
- * @LastEditTime: 2023-05-08 14:23:05
- */
 import { EventsName, SkillState } from "../../../const/GameEnum";
 import { GlobalData } from "../../../const/GlobalData";
 import SkillBase, { registerSkill } from "./SkillBase";

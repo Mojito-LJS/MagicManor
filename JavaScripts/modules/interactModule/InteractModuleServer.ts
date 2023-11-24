@@ -3,14 +3,6 @@ import InteractObject, { InteractiveHelper } from "./interactLogic/InteractObjec
 import InteractMgr from "./InteractMgr";
 import { InteractModuleClient } from "./InteractModuleClient";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-01-16 15:54:55
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-04-04 14:17:18
- * @FilePath     : \mollywoodschool\JavaScripts\modules\interactModule\InteractModuleServer.ts
- * @Description  : 
- */
 export class InteractModuleServer extends ModuleS<InteractModuleClient, null>  {
     onStart(): void {
         Player.onPlayerLeave.add((player: mw.Player) => {

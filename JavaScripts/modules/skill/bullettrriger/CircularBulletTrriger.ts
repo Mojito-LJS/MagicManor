@@ -2,14 +2,6 @@ import SkillBase from "../logic/SkillBase";
 import { BulletTrrigerBase } from "./BulletTrrigerBase";
 import { registerBulletTrriger } from "./BulletTrrigerMgr";
 
-/**
- * @Author       : 田可成
- * @Date         : 2023-03-16 18:23:18
- * @LastEditors  : 田可成
- * @LastEditTime : 2023-05-04 18:28:30
- * @FilePath     : \mollywoodschool\JavaScripts\modules\skill\bullettrriger\CircularBulletTrriger.ts
- * @Description  : 
- */
 @registerBulletTrriger()
 export class CircularBulletTrriger extends BulletTrrigerBase {
     private _movex: number = 0

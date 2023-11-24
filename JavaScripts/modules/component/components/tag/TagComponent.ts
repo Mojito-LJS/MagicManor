@@ -1,12 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-27 14:42:20
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-27 15:31:55
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\core\tags\TagComponent.ts
- * @Description  : 修改描述
- */
-
 import Component from "../../base/Component";
 import { component } from "../../base/ComponentSystem";
 import { TagEvent } from "./core/TagEvents";

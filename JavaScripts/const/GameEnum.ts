@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-05-25 16:40:46
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-12 18:14:11
- * @FilePath     : \magicmanor\JavaScripts\const\GameEnum.ts
- * @Description  : 
- */
 // 轴类型
 export enum Axis {
 	X = 0,

@@ -1,12 +1,5 @@
 import { SpawnManager,SpawnInfo, } from '../../Modified027Editor/ModifiedSpawn';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-06-02 16:08:10
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-29 10:25:08
- * @FilePath     : \magicmanor\JavaScripts\modules\building\Building.ts
- * @Description  : 
- */
+
 
 export class Building {
     public id: number;

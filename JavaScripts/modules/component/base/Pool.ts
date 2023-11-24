@@ -1,11 +1,3 @@
-/**
- * @Author       : 陈佩文 peiwen.chen@appshahe.com
- * @Date         : 2023-03-01 18:49:27
- * @LastEditors  : 陈佩文 peiwen.chen@appshahe.com
- * @LastEditTime : 2023-03-01 18:49:27
- * @FilePath     : \blueprint\JavaScripts\modules\fighting\Pool.ts
- * @Description  :
- */
 
 /**
  * <p> <code>Pool</code> 是对象池类，用于对象的存储、重复使用。</p>

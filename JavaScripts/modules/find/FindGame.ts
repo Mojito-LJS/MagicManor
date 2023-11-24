@@ -1,13 +1,5 @@
 import { GeneralManager, } from '../../Modified027Editor/ModifiedStaticAPI';
 import { SpawnManager, SpawnInfo, } from '../../Modified027Editor/ModifiedSpawn';
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-06-13 16:12:12
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-29 10:25:26
- * @FilePath     : \magicmanor\JavaScripts\modules\find\FindGame.ts
- * @Description  : 
- */
 import { myCharacterGuid } from "../../ExtensionType";
 import { GameConfig } from "../../config/GameConfig";
 import Inform from "../../ui/commonUI/Inform";

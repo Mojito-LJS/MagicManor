@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-20 16:06:44
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-05-14 10:25:56
- * @FilePath     : \mollywoodschool\JavaScripts\modules\bag\ui\BagInteraction.ts
- * @Description  : 
- */
 import { GameConfig } from "../../../config/GameConfig";
 import { GlobalData } from "../../../const/GlobalData";
 import { UIManager } from "../../../ExtensionType";

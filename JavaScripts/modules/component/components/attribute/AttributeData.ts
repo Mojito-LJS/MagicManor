@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-15 18:45:26
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-22 09:51:10
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\core\attribute\AttributeData.ts
- * @Description  : 修改描述
- */
 
 import { IFightAttrElement } from "../../../../config/FightAttr";
 

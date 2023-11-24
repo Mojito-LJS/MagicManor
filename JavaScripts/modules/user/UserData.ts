@@ -1,13 +1,6 @@
 import { GlobalModule } from "../../const/GlobalModule";
 import { CoinType, ItemInfo, JumpItemType, JumpItemData, UserDefine, JumpGameData } from "./UserDefine";
 
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-04-25 11:20
- * @LastEditTime : 2023-06-13 09:57
- * @description  : 
- */
 export class UserData extends Subdata {
 
     /**

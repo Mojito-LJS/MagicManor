@@ -1,10 +1,3 @@
-/**
- * @Author: zhaolei
- * @Date: 2022-08-19 14:52:03
- * @LastEditors: zhaolei
- * @Description: $1
- */
-
 declare module "ue";
 declare module "puerts";
 declare var global;

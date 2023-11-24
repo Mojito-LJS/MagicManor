@@ -1,14 +1,5 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-03-05 11:03:27
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-01 13:26:13
- * @FilePath     : \magicmanor\JavaScripts\modules\bag\BagModuleS.ts
- * @Description  : 背包服务端模块
- */
 import { GameConfig } from "../../config/GameConfig";
 import { IItemElement } from "../../config/Item";
-import { SnowflakeIdGenerate } from "../../utils/SnowflakeIdGenerate";
 import { BagUtils } from "./BagUtils";
 import { BagModuleDataHelper, ItemInfo, ItemType, MoneyType } from "./BagDataHelper";
 import { BagModuleC } from "./BagModuleC";

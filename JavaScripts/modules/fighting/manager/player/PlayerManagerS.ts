@@ -1,6 +1,5 @@
 import { single } from "../../../../utils/GameUtils";
-// import { EntityManagerBase } from "../EntityManagerBase";
-// import { EntityManagerS } from "../EntityManagerS";
+
 
 @single()
 export class PlayerManagerS {

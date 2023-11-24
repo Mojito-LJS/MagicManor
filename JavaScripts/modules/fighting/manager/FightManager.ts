@@ -1,11 +1,3 @@
-import { GeneralManager, } from '../../../Modified027Editor/ModifiedStaticAPI';
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2023-06-01 18:23
- * @LastEditTime : 2023-06-29 16:46
- * @description  : 
- */
 import { single } from "../../../utils/GameUtils";
 import { BaseComponent } from "../../component/base/Component";
 import ComponentSystem from "../../component/base/ComponentSystem";

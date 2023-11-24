@@ -1,12 +1,3 @@
-/*
- * @Author: YuKun.Gao
- * @Date: 2023-05-25 11:51:43
- * @LastEditors: YuKun.Gao
- * @LastEditTime: 2023-05-29 10:14:28
- * @Description: file content
- * @FilePath: \catcompanion\JavaScripts\ui\roomDress\HomeDesignMainUI.ts
- */
-
 import { GameConfig } from "../../../../config/GameConfig";
 import { IHomeDressElement } from "../../../../config/HomeDress";
 import { IHomeDressTypeElement } from "../../../../config/HomeDressType";

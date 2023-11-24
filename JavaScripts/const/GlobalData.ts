@@ -1,11 +1,3 @@
-/** 
- * @Author       : 陆江帅
- * @Date         : 2023-04-03 14:24:28
- * @LastEditors  : 陆江帅
- * @LastEditTime : 2023-06-25 10:18:30
- * @FilePath     : \magicmanor\JavaScripts\const\GlobalData.ts
- * @Description  : 
- */
 export type Class<T> = { new(...args): T; };
 
 export function MyBoolean(bool: any): boolean {

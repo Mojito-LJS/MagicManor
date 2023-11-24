@@ -1,9 +1,3 @@
-/*
- * @Author: jiezhong.zhang
- * @Date: 2023-04-26 09:24:17
- * @LastEditors: jiezhong.zhang jiezhong.zhang@appshahe.com
- * @LastEditTime: 2023-04-26 09:28:57
- */
 import { UIManager } from "../../ExtensionType";
 import { GameConfig } from "../../config/GameConfig";
 import { IItemElement } from "../../config/Item";

@@ -1,12 +1,3 @@
-/**
- * @Author       : songxing
- * @Date         : 2023-04-10 14:17:36
- * @LastEditors  : songxing
- * @LastEditTime : 2023-05-18 11:09:29
- * @FilePath     : \Projiecttest\JavaScripts\npc\NPCPanel.ts
- * @Description  : 
- */
-
 import { GameConfig } from "../../config/GameConfig";
 import { INPCConfigElement } from "../../config/NPCConfig";
 import { INPCTalkElement } from "../../config/NPCTalk";

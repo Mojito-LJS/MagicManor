@@ -1,11 +1,3 @@
-/**
- * @Author       : peiwen.chen
- * @Date         : 2023-03-27 14:42:20
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-27 15:56:10
- * @FilePath     : \mollywoodschool\JavaScripts\modules\fighting\core\attribute\AttributeComponent.ts
- * @Description  : 修改描述
- */
 import { myPlayerID } from "../../../../ExtensionType";
 import Component from "../../base/Component";
 import ComponentSystem, { component } from "../../base/ComponentSystem";

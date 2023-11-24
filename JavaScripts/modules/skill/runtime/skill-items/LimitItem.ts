@@ -2,13 +2,7 @@ import { RuntimeConst } from "../Const";
 import { ISkillEntity, ISkillItemParam, ISkillLine, ISkillTimer } from "../../define/SkillDefine";
 import { SkillBaseItem } from "./BaseItem";
 import { BehaviorType, SkillItemType } from "../../define/SkillDefine";
-/** 
- * @Author       : xianjie.xia
- * @LastEditors  : xianjie.xia
- * @Date         : 2022-11-16 09:23
- * @LastEditTime : 2022-12-12 16:21
- * @description  : 
- */
+
 export class LimitItem extends SkillBaseItem {
 
     private _moveScale: number = 1;

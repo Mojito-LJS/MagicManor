@@ -1,13 +1,3 @@
-/** 
- * @Author       : peiwen.chen
- * @Date         : 2023-03-05 17:15:56
- * @LastEditors  : peiwen.chen
- * @LastEditTime : 2023-03-07 15:39:38
- * @FilePath     : \fantasymagicschool\JavaScripts\modules\fighting\logic\attribute\aggregator\AttrSetSource.ts
- * @Description  : 修改描述
- */
-
-
 
 export interface AttrContextInfo {
 
