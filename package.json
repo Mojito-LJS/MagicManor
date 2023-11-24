@@ -1,0 +1,19 @@
+{
+  "name": "magicmanor",
+  "version": "1.0.0",
+  "description": "魔法庄园 - 陆江帅，刘昱晨",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.appshahe.com/metaApp/metagame/metabluets/games/magicmanor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "module_cameracg": "^5.0.4",
+    "module_gm": "^5.0.4"
+  }
+}

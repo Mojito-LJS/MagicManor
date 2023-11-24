@@ -1,0 +1,77 @@
+**************************************************
+--开始检查项目资源
+--项目路径:F:\MetaApp\Editor_Win64\MetaWorldSaved\Saved\MetaWorld\Projects\mollywoodschool
+**************************************************
+**************************************************
+--项目资源检查结束，耗时:56.707
+**************************************************
+-------------------------------------------
+--存在异常信息：1
+-------------------------------------------
+文件读取异常:F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/ui/commonUI/UIRoot.ts
+-------------------------------------------
+--需要修改的脚本[.ts文件]：49
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 20365 ]确定这是资源？可替换=>[ 197206 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 20375 ]确定这是资源？可替换=>[ 197193 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 20377 ]确定这是资源？可替换=>[ 197449 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 20378 ]确定这是资源？可替换=>[ 197457 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 20367 ]确定这是资源？可替换=>[ 197201 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 20373 ]确定这是资源？可替换=>[ 197203 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 21646 ]确定这是资源？可替换=>[ 197471 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 21629 ]确定这是资源？可替换=>[ 197464 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 6403 ]确定这是资源？可替换=>[ 128461 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30678 ]确定这是资源？可替换=>[ 163620 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30680 ]确定这是资源？可替换=>[ 176521 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30664 ]确定这是资源？可替换=>[ 176262 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30672 ]确定这是资源？可替换=>[ 176511 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30668 ]确定这是资源？可替换=>[ 176478 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30690 ]确定这是资源？可替换=>[ 162188 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30674 ]确定这是资源？可替换=>[ 174470 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30676 ]确定这是资源？可替换=>[ 176460 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30682 ]确定这是资源？可替换=>[ 176450 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30670 ]确定这是资源？可替换=>[ 175291 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30684 ]确定这是资源？可替换=>[ 176541 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30692 ]确定这是资源？可替换=>[ 176548 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30701 ]确定这是资源？可替换=>[ 176265 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30699 ]确定这是资源？可替换=>[ 176197 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30703 ]确定这是资源？可替换=>[ 176320 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30706 ]确定这是资源？可替换=>[ 176261 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30707 ]确定这是资源？可替换=>[ 176553 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30716 ]确定这是资源？可替换=>[ 176260 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30714 ]确定这是资源？可替换=>[ 176266 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30710 ]确定这是资源？可替换=>[ 176501 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Assets.ts]使用到ID[ 30712 ]确定这是资源？可替换=>[ 176321 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20374 ]确定这是资源？可替换=>[ 197204 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20365 ]确定这是资源？可替换=>[ 197206 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20375 ]确定这是资源？可替换=>[ 197193 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20377 ]确定这是资源？可替换=>[ 197449 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20378 ]确定这是资源？可替换=>[ 197457 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20367 ]确定这是资源？可替换=>[ 197201 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20373 ]确定这是资源？可替换=>[ 197203 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 20363 ]确定这是资源？可替换=>[ 197211 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/Effect.ts]使用到ID[ 21629 ]确定这是资源？可替换=>[ 197464 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/PropAction.ts]使用到ID[ 5399 ]确定这是资源？可替换=>[ 196923 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/PropAction.ts]使用到ID[ 13101 ]确定这是资源？请修改
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/PropFly.ts]使用到ID[ 25510 ]确定这是资源？可替换=>[ 197977 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/PropFly.ts]使用到ID[ 25511 ]确定这是资源？可替换=>[ 197973 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/PropFly.ts]使用到ID[ 5000 ]确定这是资源？请修改
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/RaceProp.ts]使用到ID[ 21622 ]确定这是资源？可替换=>[ 197485 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/RaceProp.ts]使用到ID[ 21646 ]确定这是资源？可替换=>[ 197471 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/SquareLanguage.ts]使用到ID[ 12102 ]确定这是资源？可替换=>[ 198546 ]
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/config/SquareLanguage.ts]使用到ID[ 13101 ]确定这是资源？请修改
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/JavaScripts/const/GlobalConfig.ts]使用到ID[ 21653 ]确定这是资源？可替换=>[ 197460 ]
+=>请修改上述ts文件，如果提示ID不是资源请忽略
+=>如果是配置文件转换的ts文件，请修改对应的配置表
+-------------------------------------------
+-------------------------------------------
+--需要修改的对象：5
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/Levels/NewLevel.level]里的[ SM_Architecture_BuildingA6-10.uasset.json id: 10455658 ]的资源[ 2254 ]请查找替换
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/Levels/NewLevel.level]里的[ SM_Architecture_BuildingA6-10.uasset.json id: 10455658 ]的资源[ 1519 ]请查找修改
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/Levels/NewLevel.level]里的[ SM_Architecture_BuildingA6-10.uasset.json id: 10455658 ]的资源[ 1904 ]请查找修改
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/Levels/NewLevel.level]里的[ SM_Architecture_BuildingA6-10.uasset.json id: 10455658 ]的资源[ 2266 ]请查找修改
+[F:/MetaApp/Editor_Win64/MetaWorldSaved/Saved/MetaWorld/Projects/mollywoodschool/Levels/NewLevel.level]里的[ SM_Architecture_BuildingA6-10.uasset.json id: 10455658 ]的资源[ 394 ]请查找修改
+=>请修改上述提示文件內的对象
+-------------------------------------------
+=>资源替换22个
+=>还有54个目标需要处理
+=========================================================

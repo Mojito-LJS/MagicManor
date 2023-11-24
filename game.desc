@@ -1,0 +1,34 @@
+﻿{
+	"name": "778",
+	"packageName": "42AB8CE34EA3A3C6C042D2A258EE6C5C",
+	"version": "",
+	"intro": "9999",
+	"notes": "9999",
+	"editorVersion": "v0.24.0.2",
+	"parentGameIdentity": "",
+	"parentGameId": "",
+	"extra": "{\"attribute\":2,\"IsHorizontal\":true,\"useAvatar\":1}",
+	"devEnv": 4,
+	"needToMgs": 1,
+	"attribute": 2,
+	"autoSubmitAudit": false,
+	"classification": [],
+	"ignore": [
+		"game.desc",
+		"Asset_Data_List"
+	],
+	"files": [
+		{
+			"type": "Game_Thumbnail",
+			"path": "Pictures/Game_Thumbnail.jpg"
+		},
+		{
+			"type": "GameSetting",
+			"path": "Config/GameSetting.ini"
+		},
+		{
+			"type": "Asset_Data_List",
+			"path": "Asset_Data_List"
+		}
+	]
+}

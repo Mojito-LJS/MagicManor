@@ -1,0 +1,11 @@
+idea/
+DBCache/
+Pictures/
+TsBuilder.log
+build.ts
+*.xlsx#
+*.zip
+tsconfig.json
+/dist/game.js
+/dist/game.js.map
+/.mw
